@@ -13,7 +13,7 @@
 #   - Fedora 38 (uses the RHEL 9 Microsoft repo; unofficial/unsupported by Microsoft)
 #
 # Usage:
-#   ./installer.sh [OPTIONS]
+#   ./fedora-intune-installer.sh [OPTIONS]
 #
 # Options:
 #   --insiders-fast        Use the insiders-fast channel instead of prod

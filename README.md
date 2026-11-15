@@ -9,9 +9,9 @@ Microsoft does not publish `intune-portal` in its Fedora repos, so on Fedora 38 
 ## Usage
 
 ```bash
-curl -fsSLO https://raw.githubusercontent.com/NCBrady/Fedora38-linux/main/installer.sh
-chmod +x installer.sh
-./installer.sh --verbose
+curl -fsSLO https://raw.githubusercontent.com/NCBrady/Fedora38-linux/main/fedora-intune-installer.sh
+chmod +x fedora-intune-installer.sh
+./fedora-intune-installer.sh --verbose
 ```
 
 Options: `--insiders-fast`, `--local-package <path>`, `--verbose`, `-h|--help`.
